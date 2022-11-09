@@ -6,7 +6,13 @@ export const aboutData = {
             content:"Following standard folder structure and file structure with some best practices."
         },
         {
-            content:"Developing the user interface with UI component libraries like MUI, React Bootstrap etc.., And achieving the result like design file."
+            content:"Building Api's with node.js and express.js "
+        },
+        {
+            content:"Implementing Backend functionalities like registration, login using JWT authentication. "
+        },
+        {
+            content:"Implementing Web3 functionalities in MERN application. "
         },
         {
             content:"Implementing the needed front end functionalities like validations, api's implementations, contracts etc.."

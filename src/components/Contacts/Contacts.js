@@ -221,7 +221,7 @@ function Contacts() {
                             </div>
 
                             <div className='submit-btn'>
-                            <ReactWhatsapp className={classes.submitBtn} number="+919965934977" message={name}>
+                            <ReactWhatsapp className={classes.submitBtn} number="+918072161363" message={message}>
                                 {/* <button
                                     type='submit'
                                     className={classes.submitBtn}

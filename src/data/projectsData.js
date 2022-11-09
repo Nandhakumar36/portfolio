@@ -16,7 +16,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Web 2.0 apps',
-        projectDesc: 'developed E-commerce stores, business websites, IOT apps',
+        projectDesc: 'developed backend for E-commerce stores, business websites',
         tags: ['HTML' ,'CSS','React Bootstrap','Javascript','React js'],
         code: '',
         demo: '',
@@ -25,30 +25,14 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'Web 3.0 apps',
-        projectDesc: 'developed NFT marketplace apps, ICO platforms, Staking platforms',
+        projectDesc: 'Developed NFT marketplace apps and integrated etherium smart contracts in web applications',
         tags: ['React js','React Bootstrap','MUI','Redux','Web 3.0','Smart Contracts'],
         code: '',
         demo: '',
         image: webappsProject
     },
-    {
-        id: 3,
-        projectName: 'Mobile Apps',
-        projectDesc: 'developed IOT Home automation apps, NFT marketplace apps, Business apps',
-        tags: ['React Native','React Native Elements'],
-        code: '',
-        demo: '',
-        image: appProject
-    },
-    {
-        id: 4,
-        projectName: 'UI Designing',
-        projectDesc: 'Designed several User Interfaces',
-        tags: ['Figma'],
-        code: '',
-        demo: '',
-        image: uiProject
-    },
+    
+    
     // {
     //     id: 5,
     //     projectName: 'Reliance Digital Clone - Frontend',

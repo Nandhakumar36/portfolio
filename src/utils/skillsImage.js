@@ -72,6 +72,8 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
+ import nodejs from '../assets/svg/skills/Node.js_logo.svg.png'
+ import expressjs from '../assets/svg/skills/express-js-icon.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
 import redux from '../assets/svg/skills/redux.svg'
@@ -132,7 +134,7 @@ export const skillsImage = (skill) => {
             return mysql;
         case 'postgresql':
             return postgresql;
-        case 'tailwind':
+        case 'tailwindcss':
             return tailwind;
         case 'vitejs':
             return vitejs;
@@ -160,6 +162,10 @@ export const skillsImage = (skill) => {
             return php;
         case 'python':
             return python;
+        case 'nodejs':
+            return nodejs;
+        case 'expressjs':
+            return expressjs;
         case 'ruby':
             return ruby;
         case 'swift':
